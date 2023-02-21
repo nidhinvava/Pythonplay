@@ -1,4 +1,4 @@
-# Print odd and even numbers
+# Print odd and even numbers below a given index
 
 i = 1
 num = input("Enter a number: ")
